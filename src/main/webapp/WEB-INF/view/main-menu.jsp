@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Hurray!!! Spring MVC Page</h1>
+	<a href="showForm">HelloWorld form</a>
 </body>
 </html>
