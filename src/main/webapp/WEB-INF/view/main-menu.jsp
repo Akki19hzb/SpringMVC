@@ -1,5 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,6 +6,6 @@
 </head>
 <body>
 	<h1>Hurray!!! Spring MVC Page</h1>
-	<a href="showForm">HelloWorld form</a>
+	<a href="hello/showForm">HelloWorld form</a>
 </body>
 </html>
