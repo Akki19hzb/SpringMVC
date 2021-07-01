@@ -10,7 +10,11 @@
 <body>
 
 	The Student is confirmed: ${customer.firstName} ${customer.lastName}  
+	<br><br>
 	
+	Free Pass: ${customer.freePasses}
+	
+	Postal Code: ${customer.postalCode}
 </body>
 
 </html>
