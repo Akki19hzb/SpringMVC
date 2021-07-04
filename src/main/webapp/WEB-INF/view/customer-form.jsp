@@ -33,6 +33,10 @@
 		<form:errors path="postalCode" cssClass="error"/>
 		<br><br>
 		
+		Course Code(*): <form:input path="courseCode" />
+		<form:errors path="courseCode" cssClass="error"/>
+		<br><br>
+		
 		
 		<input type="submit" value="Submit" />
 		<%-- on submit it calls the setter methods of the class --%>
